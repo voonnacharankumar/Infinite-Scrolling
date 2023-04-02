@@ -4,7 +4,7 @@ https://user-images.githubusercontent.com/89398145/229363164-e5dfccb1-8284-4a86-
 
 
 
-# Getting Started with Create React App
+# Getting Started with Infinite Scrolling App
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
